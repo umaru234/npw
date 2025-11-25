@@ -1,0 +1,32 @@
+추가변수정의
+duration 게임 시간
+
+gbr_dropship_landing 영국이 첫 턴에 덴마크에 상륙을 시도함[0/1]
+gbratkusa 영국이 첫 턴에 미국을 공격함[0/1]
+gbratktur 영국이 첫 턴에 오스만을 공격함[0/1]
+hrefra_battledur 첫 턴에 프랑스와 신성로마가 전투를 지속한 시간
+hrefra_firstbattle 프랑스와 신성로마의 전투 시작 시간
+rusatkden 첫 턴에 러시아가 노르웨이 침공
+usadefden 미국이 노르웨이 수비 시도
+rusconqnor 러시아가 450초 안에 노르웨이 정복
+"nation"_eapm 그 국가의 eapm
+"nation"_eapm_diff 그 국가의 팀원 eapm평균과의 차이
+"nation"_trait 그 국가가 선택한 특성
+"nation"_focus 그 국가가 선택한 중점
+"nation"_up_atk 그 국가가 공격 업그레이드 한 횟수
+"nation"_up_def 그 국가가 방어 업그레이드 한 횟수
+
+"nation"_cav_prod 그 국가가 첫 턴에 생산한 기병 수
+"nation"_art_prod 그 국가가 첫 턴에 생산한 포병 수 
+turatkindia 오스만이 500초 안에 인도 공격 시도함 [0/1]
+turlastseize 오스만의 마지막 인도 공격 명령 시간
+iswestwar 600초 안에 미국과 스페인간 교전 발생 [0/1]
+spaconqlouis 스페인이 600초 안에 승리함[0/1]
+westwardur 서부전쟁기간
+rusfastinv 러시아가 초반에 중동 공격
+rusnorinv 러시아가 중후반에 중동 공격
+gbrinvita 영국이 이탈리아에 상륙 시도
+gbr_moveunload_cnt_italy 영국이 이탈리아에 상륙 커맨드 내린 횟수
+usaatkcan 미국이 캐나다 공격 시도
+usaatkcan_count 미국의 캐나다지역 공격 커맨드 횟수
+A_Reapm 동맹국과 혁명국 평균 eapm 차이
